@@ -1,6 +1,11 @@
 # full-width-tabs package
-
-A short description of your package.
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
-# full-width-tabs
+full width of the tabs for better visualization.
+# install
+Atom Package Manager (APM):
+```bash
+apm install full-width-tabs
+```
+# Screenshots
+![preview gif](https://i.imgur.com/CdwAAju.gif)
+# LusaxWeb
+this plugin is creator by [lusaxweb](http://www.lusaxweb.com.ve/)
